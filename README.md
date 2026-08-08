@@ -1,42 +1,47 @@
 # Hi, I'm Harshit 👋
 
-B.Tech Student | Flutter Developer | Learning AI & Strengthening DSA Skills  
-Building projects and improving problem-solving abilities through practical apps.
+Final Year B.Tech CSE Student | Java Full Stack & Cloud | GenAI Application Development | Flutter Developer
 
 ---
 
 ## 🚀 Skills
 
-**Languages & Frameworks:** Dart, Flutter, Python, Java, C, C++, HTML, CSS, JavaScript  
-**Technologies & Tools:** Firebase, REST APIs, Git, GitHub, Flutter State Management  
-**Areas of Interest:** Mobile App Development, AI/ML, Data Structures & Algorithms  
+**Languages:** Java, Dart, Python, C, C++, JavaScript
+**Backend & Cloud:** Spring Boot, REST APIs, WebSocket, PostgreSQL, Redis, Docker, Azure (AZ-900 Certified)
+**AI/GenAI:** LangGraph, Google Gemini API, Multi-agent systems, Tavily Search API
+**Frontend & Mobile:** React, Flutter, HTML/CSS
+**Tools:** Git, GitHub, Postman, Judge0 API
 
 ---
 
-## 💻 Projects
+## 💻 Featured Projects
 
-Here are some of my notable repositories:
+### [CodeSync](https://github.com/TheHarshitDubey/CodeSync)
+Real-time collaborative code editor — Spring Boot monolith with WebSocket sync, JWT auth, Redis presence tracking, and Docker-based code execution via Judge0. React + Monaco frontend.
 
-### 1. [Flutter Notes App](https://github.com/TheHarshitDubey/flutter-notes-app)
-- Firebase Authentication & Database  
-- Dark & Light Theme support  
-- Add/Edit/Delete notes  
-- Screenshots included in repo  
+### [IntelAgent](https://github.com/TheHarshitDubey/IntelAgent)
+Multi-agent GenAI competitive intelligence platform — Research, Analysis, SWOT, and Strategy agents orchestrated via LangGraph, powered by Google Gemini 2.5 Flash and Tavily Search, with a Streamlit dashboard.
 
-### 2. [Weather App](https://github.com/TheHarshitDubey/weather_app)
-- Flutter app fetching weather data via API  
-- Clean, responsive UI  
-- Real-time weather updates  
+### [AI Scam Shield](https://github.com/TheHarshitDubey/ai_scam_Shield)
+Flutter mobile app using Gemini AI to detect scam messages in real time.
 
----
-
-## 📫 Connect with Me
-
-- LinkedIn:(https://www.linkedin.com/in/harshit-dubey13)]
-- Email: harshit13005@gmail.com 
+### [Virtual Lab — pI of Glycine](https://github.com/TheHarshitDubey/virtual-chem-lab)
+Interactive virtual laboratory for potentiometric titration, built during my internship at IIT Kanpur.
 
 ---
 
-## ⚡ GitHub Stats
+## 🎓 Experience
+- Frontend Developer Intern — IIT Kanpur (Virtual Lab project)
+- Flutter Developer Intern — Zoom Into Web Pvt. Ltd. (Staff Tracker app)
+
+## 📜 Certifications
+Microsoft Azure Fundamentals (AZ-900) · Postman Student Expert · Cisco Cybersecurity
+
+---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/harshit-dubey13) · Reach out via GitHub
+
+---
 
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHarshitDubey&show_icons=true&theme=radical)
