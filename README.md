@@ -42,6 +42,3 @@ Microsoft Azure Fundamentals (AZ-900) · Postman Student Expert · Cisco Cyberse
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/harshit-dubey13) · Reach out via GitHub
 
----
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHarshitDubey&show_icons=true&theme=radical&cache_seconds=0)
